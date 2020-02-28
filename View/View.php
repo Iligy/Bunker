@@ -1,0 +1,2 @@
+Ebbe a mappába pakolható, minden view, ez lehet PHP, JS, HTML, CSS stb..
+Bátran hozz létre almappákat, fájlokat ha szükséges, csak ne felejtsd el behívni azokat a megfelelő helyre.(include_once, require_once, include, require)

@@ -1,0 +1,2 @@
+Ebbe a mappába történnek a vizsgálatok pl:(view-ból érkező adatok vizsgáláta, adatbázisba való feltöltés).
+Bátran hozz létre almappákat, fájlokat ha szükséges, csak ne felejtsd el behívni azokat a megfelelő helyre.(include_once, require_once, include, require)
